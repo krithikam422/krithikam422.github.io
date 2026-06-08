@@ -32,12 +32,12 @@ At the UC Berkeley Transportation Sustainability Research Center, I analyzed ele
 **Tools and Methods:** Python, pandas, data cleaning, cost modeling, transportation analytics, data visualization
 
 ### Sustainable Subsea Networks
-Through Sustainable Subsea Networks, I developed educational materials on project management for sustainable digital infrastructure, including subsea cable route design, desktop studies, marine surveys, permitting, environmental constraints, and stakeholder decision-making. This work pushed me to think about infrastructure as both a technical system and a human one, shaped by geography, policy, environmental risk, and coordination across many groups.
+Through Sustainable Subsea Networks, I developed educational materials for *[NW MEDIA 132: HOW TO BUILD A GLOBAL INTERNET — Digital Infrastructure Projects from Subsea Cables to Data Centers](https://bcnm.berkeley.edu/digital-infrastructures/6256/courses)*, a course on project management for sustainable digital infrastructure. My work covered subsea cable route design, desktop studies, marine surveys, permitting, environmental constraints, and stakeholder decision-making. This project pushed me to think about infrastructure as both a technical system and a human one, shaped by geography, policy, environmental risk, and coordination across many groups.
 
 **Focus Areas:** Research synthesis, infrastructure systems, sustainability, curriculum design, technical communication
 
 ### Campus Technology Operations
-At UC Berkeley Student Technology Services, I serve as a Student Helpdesk Supervisor, helping lead 30+ student consultants who support campus technology access across walk-in, phone, and remote channels. My work includes escalation support, documentation, onboarding, and process improvement for common technical issues involving accounts, authentication, software access, and connectivity.
+At UC Berkeley Student Technology Services, I serve as a [Student Helpdesk Supervisor](https://studenttech.berkeley.edu/student-it-jobs-opportunities/stssait-jobs/meet-staff), helping lead 30+ student consultants who support campus technology access across walk-in, phone, and remote channels. My work includes escalation support, documentation, onboarding, and process improvement for common technical issues involving accounts, authentication, software access, and connectivity.
 
 **Focus Areas:** Technical operations, workflow improvement, documentation, team leadership, customer-facing systems
 
