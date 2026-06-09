@@ -27,7 +27,7 @@ I’m also interested in how AI tools can support documentation, knowledge manag
 Selected Work
 ======
 ### Electric Bus Fleet Cost & Performance Analysis
-At the UC Berkeley Transportation Sustainability Research Center, I analyzed electric bus fleet operations using telemetry, utility billing, seasonal demand, and passenger-mile data. The project examined cost and performance tradeoffs across electric, diesel, and CNG fleet configurations, with the broader goal of supporting better planning for transit electrification.
+At the [UC Berkeley Transportation Sustainability Research Center](https://tsrc.berkeley.edu/home), under Matthew Elke and Dr.Timothy Lipman, I analyzed electric bus fleet operations using telemetry, utility billing, seasonal demand, and passenger-mile data. The project examined cost and performance tradeoffs across electric, diesel, and CNG fleet configurations, with the broader goal of supporting better planning for transit electrification.
 
 **Tools and Methods:** Python, pandas, data cleaning, cost modeling, transportation analytics, data visualization
 
